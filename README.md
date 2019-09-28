@@ -44,3 +44,9 @@
  • TestSmallInt will have just one main() method. It will prompt the user (using Scanner) for a number in the range 0 – MAXVALUE (inclusive). You should get MAXVALUE from the SmallInt class. Remember that you can access this variable from the class itself since it is static (e.g., SmallInt.MAXVALUE).  
  
  • Then the main() method will simply instantiate a SmallInt object using SmallInt's constructor and print the decimal representation, the binary representation and the hexadecimal representation of the number entered by the user.
+ 
+ 
+ # Example Output
+ 
+ 
+ ![result](https://user-images.githubusercontent.com/51673576/65818254-e2c39000-e1dd-11e9-92cd-dbab8e5736e0.JPG)
